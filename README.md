@@ -18,5 +18,6 @@ A plan list for generating Dapeng's backlog
 - Pipeline maintainance
 - Unit test integration & TDD
 
-
 registry on Azure
+
+package pipeline
